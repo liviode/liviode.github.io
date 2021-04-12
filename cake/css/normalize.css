@@ -210,7 +210,7 @@ audio:not([controls]) {
  */
 
 img {
-  border-style: solid;
+  xborder-style: solid;
 }
 
 /**
